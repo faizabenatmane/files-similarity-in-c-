@@ -1,2 +1,3 @@
 # files-similarity-in-c++-
-TP c++ project 1 
+
+Code in c++ to verify the similarity between two Files
